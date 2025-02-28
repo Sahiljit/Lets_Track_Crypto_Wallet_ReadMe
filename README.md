@@ -10,8 +10,8 @@ This project can be further integrated with ideas related to copy-trading.
 
 1. User can add their wallet.
 2. Remove their wallet.
-3. Get list of wallets that are currently being tracked by the bot.
-4. User will be provided with transaction link on etherscan.
+3. Get list of wallets that are currently being monitored by the bot.
+4. User will be provided with transaction link of etherscan.
 
 ## Let's connect -
 
